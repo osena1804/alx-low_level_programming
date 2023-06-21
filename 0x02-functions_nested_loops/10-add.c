@@ -7,13 +7,14 @@
  * @b: int to be added to a
  * Return: sum of a and b
  */
+
 int add(int a, int b)
 {
 	int c;
 
 	c = add(a, b);
 
-	printf("%d\n", n)
+	printf("%d\n", c);
 
 	return (c);
 }
