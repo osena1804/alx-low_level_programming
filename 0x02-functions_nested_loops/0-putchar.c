@@ -1,10 +1,8 @@
-#include <stdio.h>
-#include <unistd.h>
 #include "main.h"
 
 /**
- * main - Entry point
- *
+ * main - print _putchar
+ *followed by new line
  * Return: Always 1
  */
 
