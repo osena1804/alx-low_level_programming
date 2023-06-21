@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
@@ -7,14 +6,11 @@
  * @b: int to be added to a
  * Return: sum of a and b
  */
-
 int add(int a, int b)
 {
 	int c;
 
-	c = add(a, b);
-
-	printf("%d\n", c);
+	c = a + b;
 
 	return (c);
 }
