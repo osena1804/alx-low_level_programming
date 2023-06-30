@@ -1,3 +1,7 @@
 0-main.c
 0-strcat
 _putchar.c
+1-main.c
+1-strncat
+2-main.c
+2-strncpy
