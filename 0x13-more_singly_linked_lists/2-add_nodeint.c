@@ -11,7 +11,7 @@
  *
  * @n : data to insert in the new node
  *
- *Return : address of the new element, or NULL if it failed
+ *Return: return address of the new element, or NULL if it failed
  */
 
 listint_t *add_nodeint(listint_t **head, const int n)
